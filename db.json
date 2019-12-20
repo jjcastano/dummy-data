@@ -1,13 +1,13 @@
 {
   "tasks": {
     "active": 35,
-    "percentage": 33,
-    "items" : [
+    "percentage": 33
+  },
+  "items" : [
       { "percentage" : 10 },
       { "percentage" : 50 },
       { "percentage" : 33 }
-    ]
-  },
+  ],
   "posts": [
     {
       "id": 1,
